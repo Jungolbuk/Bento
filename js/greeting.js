@@ -1,4 +1,4 @@
-// Get the hour
+
 var today = new Date();
 var Hr = today.getHours();
 
